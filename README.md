@@ -8,9 +8,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
@@ -18,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -32,7 +28,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor Full Stack Júnior | Técnico em Informática | Linux | Power BI | Excel Avançado<br><br>Me chamo José Roberto e atualmente estou cursando Engenharia de Software (5º período) na Universidade Fametro. Sou Técnico em Informática formado pelo Literatus e também realizo um curso EAD de Desenvolvimento de Sistemas pela Danki Code.</p>
+<p align="left">💻 Desenvolvedor Back-End | Técnico em Informática | Linux | Power BI | SQL | ShellScript <br><br>Me chamo José Roberto e atualmente estou cursando Engenharia de Software (5º período) na Universidade Fametro. Sou Técnico em Informática formado pelo Literatus e também realizo um curso EAD de Desenvolvimento de Sistemas pela Danki Code.</p>
 
 ###
 
