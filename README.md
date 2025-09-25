@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor Back-End | Técnico em Informática | Linux | Power BI | SQL | ShellScript <br><br>Me chamo José Roberto e atualmente estou cursando Engenharia de Software (5º período) na Universidade Fametro. Sou Técnico em Informática formado pelo Literatus e também realizo um curso EAD de Desenvolvimento de Sistemas pela Danki Code.</p>
+<p align="left">💻 Desenvolvedor Back-End | Técnico em Informática | Linux | Power BI | SQL | ShellScript <br><br>Me chamo José Roberto e atualmente estou cursando Engenharia de Software (6º período) na Universidade Fametro. Sou Técnico em Informática formado pelo Literatus e também realizo um curso EAD de Desenvolvimento de Sistemas pela Danki Code.</p>
 
 ###
 
